@@ -7,7 +7,6 @@
    - A snapshot of the interactive part of the webpage:
      <img src="./traffic_events.png" width="800" height="400">
    
-   - The webpage can be accessed 
   
 ## Usage
    - Click the [link](https://yongjinjiang.github.io/nbinteract_TeamProject1/) to our interactice webpage. Then, on the upper-left corner, click "Show Widgets". After the "initializating Widgets" step(the waiting time can range from several seconds to about 1 minute),  search "output in an interactive way" for a dropdown list. From the list, you can select different event and see corresponding traffic data.
